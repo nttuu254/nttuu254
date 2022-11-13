@@ -141,8 +141,9 @@ button:hover {
 
 
 
-@media only screen and (max-width: 1500px) {
+@media only screen and (max-width: 600px) {
     .heading {
+        max-width: 100%;
       font-size: 40px;
       color: rgb(255, 255, 255);
       text-align:center;
